@@ -1,0 +1,4 @@
+Harry, Potter, 12, premiere annee, GRYFFONDOR
+Hermione, Granger, 12, premiere annee, GRYFFONDOR
+Ron, Weasley, 12, premiere annee, GRYFFONDOR
+Drago, Malefoy, 12, premiere annee, SERPENTARD
